@@ -1,0 +1,10 @@
+title: "meta-anchors"
+author: "meta"
+email: "wittgena@gmail.com"
+description: meta-anchors
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+url: "https://meta-anchors.github.io"
