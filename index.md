@@ -2,6 +2,4 @@
 layout: home
 ---
 
-# Trajectories
-
-meta-anchor for meta.self
+meta-anchors for meta.self
